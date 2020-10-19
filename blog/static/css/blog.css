@@ -9,6 +9,7 @@ body {
     background-color:#260339;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
+    text-shadow: 1px 1px 1px red;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
@@ -47,8 +48,22 @@ h1, h2, h3, h4 {
 
 .post {
     margin-bottom: 70px;
+    background-color:#ffffaa;
+    
 }
 
 .post h2 a, .post h2 a:visited {
-    color: #000000;
+    color:#cd88af;
+}
+.woman{
+    margin-left: 25%;
+    margin-left: 25%;
+    display: block;
+}
+.employee{
+    margin-left:25%;
+    margin-left: 25%;
+    display: block;
+    margin-top:-60px;
+    width:50px;
 }
